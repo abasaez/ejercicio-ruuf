@@ -1,0 +1,82 @@
+{
+  "testCases": [
+    {
+      
+        "panelW": 1,
+        "panelH": 2,
+        "roofW": 2,
+        "roofH": 4,
+        "expected": 4
+      },
+      {
+        "panelW": 1,
+        "panelH": 2,
+        "roofW": 3,
+        "roofH": 5,
+        "expected": 7
+      },
+      {
+        "panelW": 2,
+        "panelH": 2,
+        "roofW": 1,
+        "roofH": 10,
+        "expected": 0
+      },
+      {
+      "panelW": 2,
+      "panelH": 2,
+      "roofW": 4,
+      "roofH": 4,
+      "expected": 4
+    },
+    {
+      "panelW": 3,
+      "panelH": 3,
+      "roofW": 2,
+      "roofH": 10,
+      "expected": 0
+    },
+    {
+      "panelW": 2,
+      "panelH": 3,
+      "roofW": 7,
+      "roofH": 5,
+      "expected": 5
+    },
+    {
+      "panelW": 5,
+      "panelH": 1,
+      "roofW": 4,
+      "roofH": 10,
+      "expected": 8
+    },
+    {
+      "panelW": 2,
+      "panelH": 2,
+      "roofW": 5,
+      "roofH": 3,
+      "expected": 2
+    },
+    {
+      "panelW": 1,
+      "panelH": 4,
+      "roofW": 4,
+      "roofH": 4,
+      "expected": 4
+    },
+    {
+      "panelW": 2,
+      "panelH": 5,
+      "roofW": 9,
+      "roofH": 5,
+      "expected": 4
+    },
+    {
+      "panelW": 2,
+      "panelH": 3,
+      "roofW": 5,
+      "roofH": 5,
+      "expected": 4
+    }
+  ]
+}
